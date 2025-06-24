@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Michael and I'm a third year software engineering student at Ontario Tech University. I tend to work on automation, full-stack web and software development projects. I use the given corporate accounts for all of my development that was during my co-ops, and I use this account for school and personal projects. Thank you for taking the time to read this.
+### Hi there 👋 My name is Michael and I'm a fourth year software engineering student at Ontario Tech University. I tend to work on automation, full-stack web and software development projects. I use the given corporate accounts for all of my development that was during my co-ops, and I use this account for school and personal projects. Thank you for taking the time to read this.
 
 <!--
 **michaelm6453/michaelm6453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
